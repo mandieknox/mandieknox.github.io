@@ -1,0 +1,40 @@
+body {
+	text-align: center;
+	background-image: url("http://i49.photobucket.com/albums/f277/I_Forever_Wish/bg_zpsxqgnnmgd.png");
+	color: white;
+}
+
+ul {
+	text-align: center;
+	list-style-type: none;
+}
+
+#slogan {
+	font-family: Helvetica;
+	font-style: italic;
+	font-weight: 100;
+}
+
+div {
+	width: 200px;
+	height: 200px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;
+}
+
+#logo {
+	background: 000;
+}
+
+#dmc {
+	background: 000;
+}
+
+#dlx {
+	background: 000;
+}
+
+#akc {
+	background: 000;
+}
