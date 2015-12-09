@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+
+body {
+	text-align: center;
+	background-image: url('images/bg.jpg');
+	background-size: cover;
+	color: 000;
+	font-family: 'Playfair Display', serif;
+	font-size: 14px;
+	font-weight: 70;
+	margin: 2em;
+}
+
+ul {
+	text-align: center;
+	list-style-type: none;
+}
+
+#slogan {
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-style: italic;
+	font-size: 25px;
+	font-weight: 100;
+	margin: 0.3em;
+}
+
+div.ex {
+	width: 200px;
+	height: 200px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;
+}
+
+#about {
+	width: 675px;
+	height: 290px;
+	display: inline-block;
+	margin: 20px;
+	background: #fff;
+	opacity: 0.7;
+	border: none;
+}
+
+#contact {
+	color: #fff;
+}
