@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow);
-@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(https://fonts.googleapis.com/css?family=Princess+Sofia);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
 
 body {
@@ -14,17 +14,19 @@ body {
 }
 
 h1 {
-	font-family: 'Open Sans Condensed';
+	font-family: 'Princess Sofia';
 	text-align: center;
 	font-size: 64px;
 	color: #fff;
 	line-height: 0em;
+	font-weight: lighter;
+	letter-spacing: 5px;
 }
 
 h2 {
 	font-family: 'Open Sans Condensed';
 	text-align: center;
-	font-size: 35px;
+	font-size: 25px;
 	color: #fff;
 	line-height: 0em;
 }
@@ -46,11 +48,19 @@ ul {
 	margin: 0.3em;
 }
 
-div.ex {
-	width: 200px;
-	height: 200px;
+.ex {
+	width: 288px;
+	height: 160px;
 	display: inline-block;
-	margin: 20px;
+	margin: 25px;
+}
+
+#styles {
+	padding: 10px;
+}
+
+#dmc {
+	padding: 10px;
 }
 
 #about {
