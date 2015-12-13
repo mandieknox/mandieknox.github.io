@@ -1,0 +1,28 @@
+body {
+	background-image: url(images/landing.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: bottom center;
+}
+
+#div1 {
+	float: left;
+	padding: 30px;
+	margin: 10% auto;
+}
+
+#div2 {
+	float: right;
+	padding: 30px;
+	margin: 10% auto;
+}
+
+img {
+	padding: 5px;
+	margin: 5px;
+	opacity: 0.5;
+}
+
+img:hover {
+	opacity: 1;
+}
