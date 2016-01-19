@@ -68,6 +68,7 @@ a:hover {
 
 img {
 	display: block;
+	width: 90%;
 	padding: 5%;
 	margin: auto;
 	opacity: 0.5;
@@ -78,12 +79,14 @@ img:hover {
 }
 
 #column1 {
+	width: 50%;
 	float: left;
 	margin: auto;
 	background: white;
 }
 
 #column2 {
+	width: 50%;
 	float: right;
 	margin: auto;
 	background: white;
